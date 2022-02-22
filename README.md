@@ -1,4 +1,4 @@
-# IE Project CANEPHORA - The data science of Music
+# CANEPHORA - The data science of Music
 # Part 1
 The (Data) Science of Kpop: Understanding BTS through Data and A.I.
 
