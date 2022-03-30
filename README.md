@@ -8,7 +8,7 @@ Many media outlets have raised and answered their own question of what makes BTS
 Multilayer perceptron on Spotify audio features to :
 1) Identify the song and artist from its characteristics(musical)
 
-2) Identify whether song is by male or female group
+2) Identify whether song is by male or female kpop group
 
 3) Analyse characteristics of song to determine its popularity
 
